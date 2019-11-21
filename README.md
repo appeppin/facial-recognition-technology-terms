@@ -1,5 +1,7 @@
 # Facial recognition: defining terms to clarify challenges
 
+*This a simplified version for collaboration – you can read our [full blogpost on facial recognition terms here](https://www.adalovelaceinstitute.org/facial-recognition-defining-terms-to-clarify-challenges/).*
+
 These four dimensions help clarify different cases of facial recognition technology, and the issues that surround them:
 
 1.	**Task** – when people talk about facial recognition technology, they’re usually referring to the use of advanced statistical analysis to do one of a number of tasks
